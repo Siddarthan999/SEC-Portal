@@ -11,7 +11,7 @@ function App() {
       <React.Fragment>
       <Router>
           <div className='header'>
-            <Link to={'/'} className='link'>Home</Link>
+            <Link to={'/SEC-Portal'} className='link'>Home</Link>
             <Link to={'/about'} className='link'>About</Link>
             <Link to={'/department'} className='link'>Departments</Link>
             <Link to={'/events'} className='link'>Events</Link>
