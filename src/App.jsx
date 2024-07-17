@@ -17,7 +17,7 @@ function App() {
             <Link to={'/events'} className='link'>Events</Link>
           </div>
           <Routes>
-            <Route path='/' element={<Home />}></Route>
+            <Route path='/SEC-Portal' element={<Home />}></Route>
             <Route path='/about' element={<About />}></Route>
             <Route path='/department' element={<Departments />}></Route>
             <Route path='/events' element={<Events />}></Route>

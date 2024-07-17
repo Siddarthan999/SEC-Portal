@@ -8,7 +8,7 @@ function About () {
             <p>
                 Welcome to SEC - Saveetha Engineering College (Autonomous), a distinguished institution established in 2001 under the visionary leadership of Dr. N. M. Veeraiyan— a committed medical professional and philanthropist par excellence. With over 35 years of unwavering commitment to excellence in education, our college has emerged as the forefront of engineering education and research.
             </p>
-            <h1>Affiliation/Accreditations</h1>
+            <h1 className="t2">Affiliation/Accreditations</h1>
             <hr />
             <ul>
                 <li>Autonomous institution affiliated with Anna University</li>
@@ -18,14 +18,14 @@ function About () {
                 <li>An 'A' grade from NAAC</li>
                 <li>Ranked by NIRF</li>
             </ul>
-            <h1>Courses Offered</h1>
+            <h1 className="t3">Courses Offered</h1>
             <hr />
             <p>
                 Our academic offerings include a variety of programs designed to prepare learners for the challenges of Industry 5.0. We offer full-time four-year B.E/B.Tech UG programs across 13 cutting-edge branches such as AI/DS, AI/ML, CSE, IT, CSE (IoT), CSE (Cybersecurity), ECE, EEE, BME, Civil, Mechanical, Agriculture, and Chemical.
                 <br /> <br />
                 For those seeking advanced studies, we provide Two-Year PG programs in VLSI, Software Engineering, MBA.
             </p>
-            <h1>Highlights</h1>
+            <h1 className="t4">Highlights</h1>
             <hr />
             <ul className="points">
                 <li>At Saveetha Engineering College, we understand the importance of adapting the learner-centric education relevant to 21st-century skillset. This is why we are among the first in India to implement the 'Saveetha Flexi Learn' where learners can select subject, faculty, schedule & domain electives.</li>
